@@ -1,0 +1,5 @@
+8001,first1,Last1,Fr,CS
+8002,first2,Last2,So,CS
+8003,first3,Last3,Fr,CS
+8004,first4,Last4,Jr,CS
+8005,first5,Last5,Sr,CS
