@@ -22,10 +22,17 @@ public class Main {
     private static double fib(int n) {
         // Fibanachi
         // N_n = N_n-1 + N_n-2
-        if (n == 1 || n == 2 ) {
+        if (n == 1 || n == 2) {
             return n;
         } else {
             return fib(n - 1) + fib(n - 2);
         }
+    }
+    
+    private static int binarySearch(int[] haystack, int needle, int front, int back) {
+        int index = 0;
+
+
+        return index;
     }
 }
